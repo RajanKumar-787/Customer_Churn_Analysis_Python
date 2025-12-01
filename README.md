@@ -78,7 +78,7 @@ Customer_Churn_Analysis/
 
 ## Detailed Analysis
 
-#### [View Full Notebook](https://github.com/RajanKumar-787/Customer_Churn_Analysis_Python/blob/45bde02a25158e89452c5a42c026dc91eb81c3f2/Notebooks/customer_churn_eda.ipynb)
+#### [View Full Notebook](https://github.com/RajanKumar-787/Customer_Churn_Analysis_Python/blob/0782da947ba165d263876f19f0ab8685978352f2/Notebooks/customer_churn_eda.ipynb)
 
 The complete analysis, including code, visualizations, and step-by-step explanations, is available in the Jupyter notebook. It covers:
 
